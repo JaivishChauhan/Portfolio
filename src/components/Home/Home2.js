@@ -16,40 +16,29 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className="purple">INTRODUCE</span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+              I am a passionate learner and technology enthusiast with a strong
+              focus on
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Web Development, Troubleshooting,</b> and{" "}
+                <b className="purple"> I am a Student.</b>
               </i>
               <br />
+              <br /> I continuously learn and adapt to various programming
+              languages, always seeking new opportunities to improve my coding
+              skills and broaden my knowledge.
               <br />
-              My field of Interest's are building new &nbsp;
+              <br />I am always expanding my knowledge in technology,focusing on
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple"> Desigining, video editing,</b> and
+                <b className="purple"> Other technologies</b> to expand my
+                skills.
               </i>
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              <br />I love troubleshooting and problem-solving, and I'm always
+              exploring new technology trends to stay ahead.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +56,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/TalontedGamer"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +66,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/Jaivishchauhan"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/jaivishchauhan/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/chauhanjaivish/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
